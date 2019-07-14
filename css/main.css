@@ -16,7 +16,11 @@ p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 120%;
 }
-    
+
+h1 {
+    font-size: 36px;
+}
+
 h1,h2,h3,h4 {
     font-family: "Monument Extended";
     font-size: 120%;
