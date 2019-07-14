@@ -16,12 +16,12 @@ body {
     position: relative;
     margin: 0;
     padding-bottom: 6em;
+    width: 100%;
 }
 
 div {
   margin: 0 auto;
   padding-top: 6em;
-  max-width: 640px;
   width: 94%;
 }
 
