@@ -1,12 +1,12 @@
 nav {
-    background-color: tan;
-    background: linear-gradient(30deg, #fdcd3b 60%, #ffed4b 60%);
+    background: tan;
     font-family: "Grafier";
     font-weight: "100";
     font-size: 120%;
 }
 
 body {
+    background: red;
     font-family: "Agrandir";
     font-variant: "Agrandir Wide Light";
     font-size: 120%;
