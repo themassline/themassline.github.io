@@ -1,3 +1,8 @@
+html{
+    width:100%;
+    height:100%;
+}
+
 nav {
     background: tan;
     font-family: "Grafier";
@@ -6,7 +11,10 @@ nav {
 }
 
 body {
+    width:100%;
+    height:100%;
     background: red;
+    background-color: red;
     font-family: "Agrandir";
     font-variant: "Agrandir Wide Light";
     font-size: 120%;
