@@ -7,7 +7,7 @@ nav {
     background: red;
     font-family: "Grafier";
     font-weight: "100";
-    font-size: 120%;
+    font-size: 3em;
 }
 
 body {
@@ -17,12 +17,11 @@ body {
     width: 70%;
     background-color: #ff0066;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 120%;
 }
 
 p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 120%;
+    font-size: 2em;
 }
 
 h1 {
@@ -32,7 +31,7 @@ h1 {
 
 h2, h3, h4 {
     font-family: "Monument Extended";
-    font-size: 120%;
+    font-size: 3em;
 }
 
 footer {
