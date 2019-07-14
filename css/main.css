@@ -4,7 +4,7 @@ html{
 }
 
 nav {
-    background: red;
+    background-image: url("/img/white-waves.png");
     font-weight: "100";
     font-size: 3em;
 }
