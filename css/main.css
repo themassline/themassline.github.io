@@ -4,7 +4,7 @@ html{
 }
 
 nav {
-    background: tan;
+    background: red;
     font-family: "Grafier";
     font-weight: "100";
     font-size: 120%;
@@ -15,9 +15,7 @@ body {
     color: #ffffcc;
     margin: 60px 120px;
     width: 70%;
-    background-color: red;
-    font-size: 120%;
-    background: red;
+    background-color: #ff0066;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 120%;
 }
