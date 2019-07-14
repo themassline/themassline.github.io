@@ -33,6 +33,7 @@ p {
 h1 {
     font-family: "Monument Extended";
     font-size: 4em;
+    margin-top: 0;
 }
 
 h2, h3, h4 {
